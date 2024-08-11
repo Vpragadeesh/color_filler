@@ -1,23 +1,6 @@
 Please download model from https://www.dropbox.com/scl/fi/10trr00en4l9vlu7qdcns/colorization_release_v2.caffemodel?rlkey=swcyey8s785ttjv2p2jsjcz3d&dl=1
 
-
-
-
 Black and white image colorization with OpenCV.
-Table of Content
-
-    Demo
-    Overview
-    Motivation
-    Technical Aspect
-    Installation And Run
-    Directory Tree
-    To Do
-    Bug / Feature Request
-    Technologies Used
-    Team
-    License
-    Credits
 
 Demo
 
